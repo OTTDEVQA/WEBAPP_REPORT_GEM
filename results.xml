@@ -1,0 +1,22 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="31.347799">
+<testsuite name="common/pageStructure/homePage.spec.ts" timestamp="2023-10-03T14:52:38.261Z" hostname="chrome-large-1" tests="1" failures="0" skipped="0" time="24.649" errors="0">
+<testcase name="C81398 Home page" classname="common/pageStructure/homePage.spec.ts" time="24.649">
+<properties>
+<property name="slow" value="">
+</property>
+</properties>
+</testcase>
+</testsuite>
+<testsuite name="common/pageStructure/homePage2.spec.ts" timestamp="2023-10-03T14:52:38.261Z" hostname="chrome-large-1" tests="1" failures="0" skipped="0" time="24.683" errors="0">
+<testcase name="C81398 Home page" classname="common/pageStructure/homePage2.spec.ts" time="24.683">
+<properties>
+<property name="slow" value="">
+</property>
+</properties>
+</testcase>
+</testsuite>
+<testsuite name="GEM/cards/showCard/labels/ProgramLabel.spec.ts" timestamp="2023-10-03T14:52:38.261Z" hostname="chrome-large-1" tests="1" failures="0" skipped="0" time="5.127" errors="0">
+<testcase name="C72326 Home Page Program label color and case" classname="GEM/cards/showCard/labels/ProgramLabel.spec.ts" time="5.127">
+</testcase>
+</testsuite>
+</testsuites>
